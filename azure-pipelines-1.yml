@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  name:'DevOps_Agent'
+  name:'DevPipe_agent'
 
 steps:
 - task: Maven@3
